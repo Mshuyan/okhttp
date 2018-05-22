@@ -1,2 +1,3 @@
-# okhttp
-okhttp用于向其他服务器发送get、post等请求
+> 学习资料：<br/>
+    1. [OkHttp使用完全教程](https://www.jianshu.com/p/ca8a982a116b)<br/>
+    2. 
